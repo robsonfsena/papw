@@ -17,9 +17,9 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.projectKey>robson</sonar.projectKey>
+		<sonar.projectKey>avaliacaoFuji</sonar.projectKey>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>73bbb3c290c8a8841c64d8bfa27d44ab1272d85f</sonar.login>
+		<sonar.login>61c39efb654f8f6ca5531d2897836e9e7701e2e5</sonar.login>
 
 	</properties>
 
